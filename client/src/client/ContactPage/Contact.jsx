@@ -126,7 +126,7 @@ const Contact = () => {
                       </div>
                       <div className="text">
                         <h3>Address</h3>
-                        <p>9999 DDU,  College Road, Nadiad, Gujarat 387002
+                        <p>Sector 5,  Bidhan Nagar, kolkata, 700091
                         </p>
                       </div>
                     </div>
